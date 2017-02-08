@@ -1,0 +1,9 @@
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\bin\Debug\netcoreapp1.0\TestWebApi.deps.json
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\bin\Debug\netcoreapp1.0\TestWebApi.runtimeconfig.json
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\bin\Debug\netcoreapp1.0\TestWebApi.runtimeconfig.dev.json
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\bin\Debug\netcoreapp1.0\TestWebApi.dll
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\bin\Debug\netcoreapp1.0\TestWebApi.pdb
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\obj\Debug\netcoreapp1.0\TestWebApi.csprojResolveAssemblyReference.cache
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\obj\Debug\netcoreapp1.0\TestWebApi.AssemblyInfo.cs
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\obj\Debug\netcoreapp1.0\TestWebApi.dll
+C:\Users\muli\Source\Repos\testazurewebapp\testazurewebapp\TestWebApi\obj\Debug\netcoreapp1.0\TestWebApi.pdb
